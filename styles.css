@@ -1,0 +1,29 @@
+/* Your CSS goes here */
+
+body{
+	margin-left: 15px;
+	font-family: 'Raleway', sans-serif;;
+}
+
+
+h2{
+	size:.5em;
+	color: #33cc33;
+}
+
+
+h4{
+	font-style:italic;
+}
+
+input{
+	background-color: #ffcc00
+}
+
+#lastname {
+	font-weight: bold;
+}
+
+#instructions{
+	border: 2px dashed #ff5c33;
+}
